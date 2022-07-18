@@ -34,6 +34,7 @@ public class AlertsExample {
 		//WebDriverWait wait = new WebDriverWait(driver, 20);
 		alert2.sendKeys("Chithra");
 		alert2.accept();
+		//alert2.
 		
 		
 

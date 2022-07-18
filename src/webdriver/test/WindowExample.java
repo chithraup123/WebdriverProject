@@ -39,6 +39,7 @@ public class WindowExample {
 
 		WebElement childWindowElement = driver.findElement(By.xpath("//h1[@id=\"sampleHeading\"]"));
 		System.out.println(childWindowElement.getText());
+		
 	}
 
 }

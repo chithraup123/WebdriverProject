@@ -26,6 +26,7 @@ public class FrameExample {
 		
 		//to switch back to previous window
 		driver.switchTo().parentFrame();
+		//driver.switchTo().
 
 	}
 
